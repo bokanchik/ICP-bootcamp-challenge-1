@@ -3,7 +3,7 @@ import Buffer "mo:base/Buffer";
 actor {
     let name : Text = "TheMachine";
     var manifesto : Text = "In a world where data is power, TheMachine stands for transparency, security, and decentralization.";
-    let goals = Buffer.Buffer<Text>(0);
+    var goals : Buffer.Buffer<Text> = Buffer.Buffer<Text>(0);
 
     public shared query func getName() : async Text {
         return name;

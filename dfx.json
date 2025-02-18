@@ -9,7 +9,7 @@
       "type": "motoko"
     },
     "chapter_2": {
-      "main": "chapters/chapter_2/challenge/main.mo",
+      "main": "chapters/chapter_2/solution/main.mo",
       "type": "motoko"
     },
     "chapter_3": {
