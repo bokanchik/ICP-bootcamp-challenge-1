@@ -21,7 +21,7 @@
       "type": "motoko"
     },
     "chapter_5": {
-      "main": "chapters/chapter_5/challenge/main.mo",
+      "main": "chapters/chapter_5/solution/main.mo",
       "type": "motoko"
     },
     "graduation_dao" : {
