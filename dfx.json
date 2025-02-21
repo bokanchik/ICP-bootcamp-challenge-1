@@ -17,7 +17,7 @@
       "type": "motoko"
     },
     "chapter_4": {
-      "main": "chapters/chapter_4/challenge/main.mo",
+      "main": "chapters/chapter_4/solution/main.mo",
       "type": "motoko"
     },
     "chapter_5": {
