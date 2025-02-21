@@ -25,6 +25,7 @@
       "type": "motoko"
     },
     "graduation_dao" : {
+      "dependencies": ["graduation_token"],
       "main": "chapters/graduation/dao/main.mo",
       "type": "motoko"
     },
